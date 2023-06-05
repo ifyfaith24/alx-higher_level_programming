@@ -1,3 +1,3 @@
-#!/usr/bin/python3
->>> name = Battery street
->>> f"98 {Battery street}"
+#!/usr/bin/python
+number = 98
+print(f"{number:d} Battery street")
